@@ -1,6 +1,5 @@
-# Navigation
-# 经济
-[世界品牌实验室](http://worldbrandlab.com/)
+## Navigation
+[worldbrandlab](http://worldbrandlab.com/)
 
 
 # Blog
