@@ -18,3 +18,7 @@ I cannot use Chinese in the website.
 ## 2020/6/9 
 
 It has been 3 mouths since I update the page. A few days ago, it was impossible for people in China to use *Wordpress.com*, which is also a good choice for personal blog. In addition, *lofter*, a Chinese media main for fan fiction and other ACG content, was down in app shops. Then I found a python code to convert log form *lofter* into other blog sites. The main idea is to read the xml file and translate, which is similar to the lecture we learnt last semester. I'd like to try coding myself and may post the process later.
+
+
+
+change
